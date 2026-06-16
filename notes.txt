@@ -10,9 +10,9 @@ what about twitter/bluesky/etc archives
 
 https://www.utf8icons.com
 
-weirdsmobile entries: https://web.archive.org/web/20080118050838/http://www.weirdsmobile.com/
+- weirdsmobile entries: https://web.archive.org/web/20080118050838/http://www.weirdsmobile.com/
 
-https://web.archive.org/web/20060707084800/http://www.weirdsmobile.com/stories/ - stories
+- https://web.archive.org/web/20060707084800/http://www.weirdsmobile.com/stories/ - stories
 https://web.archive.org/web/20111201000000*/edwardsung.com
 - https://web.archive.org/web/20130129060229/http://www.wehaveeatenwell.com/
 - https://web.archive.org/web/20130614044502/http://miserabilist.com/
@@ -30,31 +30,32 @@ https://web.archive.org/web/20160208233102/https://itunes.apple.com/us/podcast/t
 
 
 
-weirdsmobile.com
+----done----weirdsmobile.com
 enemyofjoy.com
 ----done----metagrar.com
 ----done----edwardives.com
-wehawehaveeatenwellveeatenwell.com
+wehaweeatenwell.com
 edwardsung.com
-saladdayspod.com
+----done----saladdayspod.com
 ----done----miserabilist.com
 ----done----godandabottle.com
 ----done----redflesh.com
 ----done----asianbastard.com
 damnitalltohell.com
 rejectionslips.com
-byunomatic.com
+----done----byunomatic.com
 Angerhäus
 
-thefishandthechips.tumblr.com
-howdidthisgetwritten.tumblr.com
+----done----thefishandthechips.tumblr.com
+----done----howdidthisgetwritten.tumblr.com
 
 
 all weirdsmobile??? /b - https://web.archive.org/web/20071227235348/http://www.weirdsmobile.com/archives/2000/02/
 
 
 
-
+https://web.archive.org/web/20020602113434/http://dammitalltohell.com/ - unique page
+https://web.archive.org/web/20021017142234/http://www.dammitalltohell.com/bastard/archives.html - leads to lots of other old stuff
 https://web.archive.org/web/20030811165801/http://www.weirdsmobile.com/chatter/index.cgi
 https://web.archive.org/web/20030131213240/http://www.dammitalltohell.com/1998/index4.html
 https://web.archive.org/web/20021211160454/http://www.dammitalltohell.com/work/
